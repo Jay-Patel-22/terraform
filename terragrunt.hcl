@@ -1,6 +1,6 @@
 
 terraform {
-  source = "git::https://github.com/Jay-Patel-22/terraform.git//modules"
+  source = "git::https://github.com/Jay-Patel-22/terraform.git//module"
 }
 
 inputs = {
