@@ -12,6 +12,6 @@ inputs = {
   image_name  = "docker-clickhouse"
   image_project_id = "idfy-299017"
   cluster_zone  = "asia-south1-a"
-  service_account_id = "terraform-task@idfy-299017.iam.gserviceaccount.com"
+  service_account_id = "gcs-test@idfy-299017.iam.gserviceaccount.com"
   zookeeper_instance_count = 3
 }
